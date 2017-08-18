@@ -10,3 +10,7 @@
 * Titanic     : Kaggle Titanic 생존자 분류
 
   * LogisticRegression, BernoulliNB, MultinomialNB, GaussianNB 이용
+  
+* Decision Tree 
+  
+  * ID3 Algorithm 코딩
